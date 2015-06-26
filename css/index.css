@@ -1,0 +1,55 @@
+body{font-size: 12px;}
+.top{height: 30px;line-height: 30px;}
+.top .location{margin-right: 200px;display: inline-block;vertical-align: top;}
+.top li{height: 30px;line-height: 30px;}
+.top li a{height: 20px;}
+.title input{width: 446px;height: 24px;border:2px solid #B61D1D;border-right: 0; }
+.title .btn:hover{color: #fff;}
+.title .car{height: 30px;line-height: 30px;display: inline-block;}
+.title .search{width: 800px;}
+#main .goods_types h2{font-size: 15px;line-height: 40px;width: 210px;display: inline-block;text-align: left;vertical-align: middle;border-bottom: 2px solid #B61D1D;}
+.goods_types ul li{background-color:#C81623;height: 31px; line-height: 31px;padding-left: 5px;}
+#main .mid{font-size: 15px;}
+#main .mid ul li{height: 40px;line-height: 40px;padding: 0 .9em;}
+#main .main_nav{border-bottom: 2px solid #B61D1D;height: 40px; }
+.banner_wrapper{position: relative;height:454px;margin-top: 10px;}
+.banner_wrapper .banner{width: 730px;height: 454px;margin-left: 220px;background-color: yellow;}
+.banner_wrapper .aSide_right{height: 454px;}
+.aSide_right .message{border-bottom: 1px dashed #ccc;}
+.aSide_right .message h2{height: 43px;line-height: 43px;font-size: 16px;color: #666;text-indent: 10px;}
+.aSide_right .message a{font-size: 12px;}
+.aSide_right .message ul li{height: 27px;line-height: 27px;}
+.aSide_right .message .service li{height: 69px;width: 61px;text-align: center;border-right: 1px solid #ccc;border-bottom: 1px solid #ccc;}
+.aSide_right .message .service li a{width: 62px;height: 70px;display: inline-block;padding: 0}
+.aSide_right .message .service li i{display: block;width: 25px;height: 25px;margin-top: 16px;margin-left: 16px; }
+.aSide_right .message .service li .icon1{background: url('../images/service.png') -19px -15px;}
+.aSide_right .message .service li .icon2{background: url('../images/service.png') -82px -15px;}
+.aSide_right .message .service li .icon3{background: url('../images/service.png') -145px -15px;}
+.aSide_right .message .service li .icon4{background: url('../images/service.png') -208px -15px;}
+.aSide_right .message .service li .icon5{background: url('../images/service.png') -19px -86px;}
+.aSide_right .message .service li .icon6{background: url('../images/service.png') -82px -86px;}
+.aSide_right .message .service li .icon7{background: url('../images/service.png') -145px -86px;}
+.aSide_right .message .service li .icon8{background: url('../images/service.png') -208px -86px;}
+.aSide_right .message .service li .icon9{background: url('../images/service.png') -19px -157px;}
+.aSide_right .message .service li .icon10{background: url('../images/service.png') -82px -157px;}
+.aSide_right .message .service li .icon11{background: url('../images/service.png') -145px -157px;}
+.aSide_right .message .service li .icon12{background: url('../images/service.png') -208px -157px;}
+.today .today_pic{width: 210px;height: 151px;background: url('../images/today.png');}
+.today .today_banner{width: 1000px;height: 151px;background-color: yellow;}
+.youLike h2{color: #666;width: 290px;line-height: 30px;font-weight: normal;background: url('../images/liketitle.png') no-repeat right 5px;margin-bottom: 10px;}
+.youLike ul li{width: 201px;height: 202px;text-align: center;}
+.youLike ul li .price_wrapper{width: 128px;height: 62px;line-height: 18px;padding: 0 36px;border-left: 1px solid #ccc;text-align: left;}
+.youLike ul li .price{font-size: 18px;color:#B51D1A;margin-top: 5px; display: inline-block;}
+.character_purchase h2,.clothes h2{color: #666;width: 290px;line-height: 30px;margin-bottom: 10px;font-weight: normal;}
+.character_purchase ul li{width: 201px;height: 200px;text-align: center;cursor: pointer;background:url('../images/chara1.jpg');}
+.character_purchase ul li .title{margin-top: 20px;font-size: 16px;}
+.character_purchase ul li .produce{margin-top: 20px;color: #EF1958;}
+.character_purchase ul .character{width: 403px;height: 200px;background: url('../images/charat.jpg');text-align: left;}
+.character_purchase ul .character .title,.character_purchase ul .character .produce{font-size: 18px;font-weight: 600px;color: #333;margin-top: 40px;margin-left: 20px;}
+.clothes .title_flag ul li{height: 34px;line-height: 34px;}
+.clothes .title_flag ul li a{height: 12px;line-height: 12px;padding: 0 16px;border-right: 1px solid #ccc;vertical-align: middle;}
+
+.spacer{width: 1px;height: 12px!important;background-color: #ccc;margin-top: 9px;}
+.nostyle{list-style-type: none!important;}
+.noborder{border: 0!important;}
+.nobl{border-left: 0;}
